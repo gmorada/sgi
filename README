@@ -2,6 +2,6 @@ Faça o clone do repositório no seu diretório de virtual envs.
 
 rode o bootstrap
 
-python boootstrap/bootstrap.py
+python boootstrap/bootstrap.py --no-site-packages
 
 Pronto seu projeto já está configurado
