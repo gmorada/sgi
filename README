@@ -1,5 +1,11 @@
 Faça o clone do repositório no seu diretório de virtual envs.
 
+Va na sua pasta que foi clonada do repositório
+
+Crie um pasta chamada src
+
+    mkdir src
+
 Rode o bootstrap
 
     python boootstrap/bootstrap.py --no-site-packages
@@ -13,3 +19,7 @@ Rode o comando trocando o "git://github.com/user/test.git" pela a URL do seu rep
     git push origin master
 
 Pronto seu projeto já está configurado e apontando para o seu repositorio no github
+
+Crie sua aplicação Django dentro da pasta src
+
+Bons códigos!
