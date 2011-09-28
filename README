@@ -1,0 +1,7 @@
+Faça o clone do repositório no seu diretório de virtual envs.
+
+rode o bootstrap
+
+python boootstrap/bootstrap.py
+
+Pronto seu projeto já está configurado
