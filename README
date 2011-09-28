@@ -21,5 +21,6 @@ Rode o comando trocando o "git://github.com/user/test.git" pela a URL do seu rep
 Pronto seu projeto já está configurado e apontando para o seu repositorio no github
 
 Crie sua aplicação Django dentro da pasta src
+    django-admin.py startproject NOMEDASUAAPLICACAO
 
 Bons códigos!
