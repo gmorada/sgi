@@ -1,4 +1,4 @@
-unittest2
-ipython
-ipdb
-django
+unittest2==0.5.1
+django==1.3
+pymongo==1.11
+mongoengine==0.4
