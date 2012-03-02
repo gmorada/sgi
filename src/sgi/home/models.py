@@ -1,3 +1,12 @@
-from django.db import models
+# -*-coding:utf-8 -*-
 
-# Create your models here.
+from mongoengine import *
+
+__all__ = [
+    'Cliente'
+]
+
+
+class Cliente(Document):
+    nome = StringField(required=True)
+    sobrenome = StringField(required=True)
